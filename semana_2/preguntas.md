@@ -13,7 +13,7 @@ cómo hacerlo.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Bash (Bourne-again shell) es un lenguaje de comandos y shell de Unix. Bash es un lenguaje de programación para escribir scripts simples que permitan automatizar las tareas que desempeña un administrador de sistemas. Su característica principal es interpretar órdenes. Es el estándar de todas las distribuciones GNU/Linux, así que la mayoría de los scripts escritos para este tipo de sistemas operativos están hechos en Bash. Para scripts más complejos y extensos es necesario utilizar Python o Perl. Fue lanzado por primera vez en 1989, se ha utilizado ampliamente como el intérprete de inicio de sesión (login) predeterminado para la mayoría de las distribuciones de GNU/Linux, y de Mac OS X de Apple hasta la versión 10.15.
 
 ## Pregunta 2
 
