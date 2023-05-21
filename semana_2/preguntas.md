@@ -21,7 +21,9 @@ Bash (Bourne-again shell) es un lenguaje de comandos y shell de Unix. Bash es un
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Linux es un clon del sistema Unix original, aunque no contiene su código. Linux es solo el núcleo (kernel) del sistema, mientras que Unix es un sistema operativo completo. Linux fue desarrollado para ser ejecutado en PCs, mientras que Unix fue desarrollo principalmente para grandes estaciones de trabajo y servidores. 
+Y Unix y macOS no tienen ninguna relación. La única relación es que Linux es un sistema operativo estilo UNIX y macOS se construyó sobre un sistema UNIX BSD. En concreto se llama Darwin al sistema operativo que constituye el núcleo del macOS y que incluye el núcleo microkernel Mach 3 y muchos elementos de los sistemas FreeBSD
+
 
 ## Pregunta 3
 
@@ -29,7 +31,8 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+El nombre del sistema GNU es un acrónimo recursivo que significa «GNU No es Unix». Técnicamente GNU es como Unix pero, a diferencia de Unix, GNU proporciona libertad a los usuarios. Linux se utiliza normalmente en combinación con el sistema operativo GNU: el sistema completo es básicamente GNU al que se le ha añadido Linux, es decir, GNU/Linux. Todas las distribuciones denominadas «Linux» son en realidad distribuciones GNU/Linux.
+
 
 ## Pregunta 4
 
@@ -38,7 +41,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+El juego simulaba el viaje de una nave espacial dentro del sistema solar que era capaz de aterrizar en un planeta o en una luna (satélite). Se jugaba en el ordenador GE 635 (y mas tarde un GE 645) que utilizaba un sistema operativo llamado GECOS y se programaba en Fortran, pero había que pagar entre 250 y 400 euros por hora. En los Bell Labs de la AT & T había otros ordenadores, destacando un mainframe IBM 7094 que tenía varios PDP-7 con sistema gráfico como terminales. El PDP-7 era un ordenador pequeño fabricado por DEC y AT & T permitía que los empleados lo usaran gratis. Ken no pudo resistir la tentación y programó su «Space Travel» en lenguaje ensamblador para el PDP-7 mientras trabajaba en el desarrollo del sistema operativo Multics para el ordenador GE 645 y esto dio lugar a un sistema operativo monotarea para dos usuarios que llamaron Unics y posteriormente fue rebautizado como Unix. El juego «Space Travel» finalmente fue reescrito para correr en Unix.
 
 ## Pregunta 5
 
@@ -48,7 +51,10 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+<p> Linus Torvalds is a Finnish software engineer who is the creator and, historically, the lead developer of the Linux kernel, used by Linux distributions and other operating systems such as Android. He also created the distributed version control system Git.<p>
+
+<p> Richard Matthew Stallman is an American free software movement activist and programmer. He campaigns for software to be distributed in such a manner that its users have the freedom to use, study, distribute, and modify that software.<p>
+
 
 ## Pregunta 6
 
@@ -58,7 +64,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+<p>Miguel de Icaza y Federico Mena: los padres mexicanos del proyecto GNOME, uno de los entornos de escritorio más famosos de Linux.<p>
 
 
 ## Pregunta 7
@@ -67,7 +73,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+El software libre va dirigido o enfocado a las libertades filosóficas que tienen los usuarios a la hora de hacer uso de ello y el software de código abierto va dirigido a las ventajas a la hora de utilizarlo.
 
 ## Pregunta 8
 
@@ -75,7 +81,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 ### Respuesta
 
-Responde aquí con no más de 6 lineas de texto.
+Existen más de 600 distribuciones de Linux diferentes e independientes. Los sistemas operativos de código abierto más conocidos basados en el kernel de Linux son Ubuntu, Debian, Fedora, SUSE, Manjaro y Linux Mint. Linux, aunque es abierto, no siempre es gratis.  Red Hat es la compañía tras Red Hat Enterprise Linux, una distribución de Linux de código abierto pero de pago, partiendo desde los 49 dólares de la versión de escritorio hasta los 5000 dólares en la versión para servidores IBM.
 
 
 
