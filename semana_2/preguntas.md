@@ -22,7 +22,7 @@ Bash (Bourne-again shell) es un lenguaje de comandos y shell de Unix. Bash es un
 ### Respuesta
 
 Linux es un clon del sistema Unix original, aunque no contiene su código. Linux es solo el núcleo (kernel) del sistema, mientras que Unix es un sistema operativo completo. Linux fue desarrollado para ser ejecutado en PCs, mientras que Unix fue desarrollo principalmente para grandes estaciones de trabajo y servidores. 
-Y Unix y macOS no tienen ninguna relación. La única relación es que Linux es un sistema operativo estilo UNIX y macOS se construyó sobre un sistema UNIX BSD. En concreto se llama Darwin al sistema operativo que constituye el núcleo del macOS y que incluye el núcleo microkernel Mach 3 y muchos elementos de los sistemas FreeBSD
+Y Unix y macOS no tienen ninguna relación. La única relación es que Linux es un sistema operativo estilo UNIX y macOS se construyó sobre un sistema UNIX BSD. En concreto se llama Darwin al sistema operativo que constituye el núcleo del macOS y que incluye el núcleo microkernel Mach 3 y muchos elementos de los sistemas FreeBSD.
 
 
 ## Pregunta 3
@@ -51,9 +51,9 @@ El juego simulaba el viaje de una nave espacial dentro del sistema solar que era
 
 ### Respuesta
 
-<p> Linus Torvalds is a Finnish software engineer who is the creator and, historically, the lead developer of the Linux kernel, used by Linux distributions and other operating systems such as Android. He also created the distributed version control system Git.<p>
+<p> Linus Torvalds es un ingeniero de software finlandés creador e históricamente, el principal desarrollador del kernel de Linux, utilizado por las distribuciones de Linux y otros sistemas operativos como Android. También creó el sistema de control de versiones distribuidas Git.<p>
 
-<p> Richard Matthew Stallman is an American free software movement activist and programmer. He campaigns for software to be distributed in such a manner that its users have the freedom to use, study, distribute, and modify that software.<p>
+<p> Richard Matthew Stallman es un programador estadounidense de software libre. Hace campaña para que el software se distribuya de tal manera que sus usuarios tengan la libertad de usar, estudiar, distribuir y modificar ese software.<p>
 
 
 ## Pregunta 6
@@ -64,7 +64,7 @@ El juego simulaba el viaje de una nave espacial dentro del sistema solar que era
 
 ### Respuesta
 
-<p>Miguel de Icaza y Federico Mena: los padres mexicanos del proyecto GNOME, uno de los entornos de escritorio más famosos de Linux.<p>
+<p>Miguel de Icaza y Federico Mena son los padres mexicanos del proyecto GNOME, uno de los entornos de escritorio más famosos de Linux.<p>
 
 
 ## Pregunta 7
@@ -73,7 +73,7 @@ El juego simulaba el viaje de una nave espacial dentro del sistema solar que era
 
 ### Respuesta
 
-El software libre va dirigido o enfocado a las libertades filosóficas que tienen los usuarios a la hora de hacer uso de ello y el software de código abierto va dirigido a las ventajas a la hora de utilizarlo.
+El software libre va dirigido o enfocado a las libertades filosóficas que tienen los usuarios a la hora de hacer uso de ello y el software de código abierto va dirigido a las ventajas que tienen los usuarios a la hora de utilizarlo.
 
 ## Pregunta 8
 
@@ -81,7 +81,7 @@ El software libre va dirigido o enfocado a las libertades filosóficas que tiene
 
 ### Respuesta
 
-Existen más de 600 distribuciones de Linux diferentes e independientes. Los sistemas operativos de código abierto más conocidos basados en el kernel de Linux son Ubuntu, Debian, Fedora, SUSE, Manjaro y Linux Mint. Linux, aunque es abierto, no siempre es gratis.  Red Hat es la compañía tras Red Hat Enterprise Linux, una distribución de Linux de código abierto pero de pago, partiendo desde los 49 dólares de la versión de escritorio hasta los 5000 dólares en la versión para servidores IBM.
+Existen más de 600 distribuciones de Linux diferentes e independientes. Los sistemas operativos de código abierto más conocidos basados en el kernel de Linux son Ubuntu, Debian, Fedora, SUSE, Manjaro y Linux Mint. Linux, aunque es abierto, no siempre es gratis.  Red Hat es la compañía tras Red Hat Enterprise Linux, una distribución de Linux de código abierto pero de pago, partiendo desde 49 dólares para la versión de escritorio hasta los 5000 dólares, la versión para servidores IBM.
 
 
 
